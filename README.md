@@ -19,12 +19,12 @@ cd storage-api
 ### 2. Backend Setup
 
 **Create and Activate virtual environment:**
-# On macOS/Linux
+### On macOS/Linux
 ```bash
 python -m venv env
 source env/bin/activate
 ```
-# On Windows
+### On Windows
 ```bash
 python -m venv env
 env\Scripts\activate
