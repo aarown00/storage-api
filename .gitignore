@@ -1,0 +1,11 @@
+/storage_api/media
+django.bat
+react.bat
+run.bat
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+.env
+*.log
