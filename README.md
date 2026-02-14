@@ -20,12 +20,15 @@ cd storage-api
 
 **Create and Activate virtual environment:**
 # On macOS/Linux
+```bash
 python -m venv env
 source env/bin/activate
-
+```
 # On Windows
+```bash
 python -m venv env
 env\Scripts\activate
+```
 
 **Install dependencies (if needed):**
 ```bash
